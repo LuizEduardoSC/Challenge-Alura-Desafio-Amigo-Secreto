@@ -1,6 +1,7 @@
 Amigo Secreto 🎁
 O projeto Amigo Secreto é uma aplicação interativa que permite ao usuário criar uma lista de amigos e sortear aleatoriamente um "amigo secreto". É uma forma prática e divertida de organizar essa brincadeira popular.
 
+
 🎯 Funcionalidades
 Adicionar nomes à lista de amigos.
 
@@ -12,12 +13,14 @@ Sortear um amigo aleatoriamente, garantindo que a lista contenha pelo menos dois
 
 Mostrar o resultado do sorteio na tela.
 
+
 🛠️ Tecnologias Utilizadas
 HTML5: Para estruturar a aplicação.
 
 CSS3: Para estilização e layout.
 
 JavaScript: Para lógica e interatividade.
+
 
 📥 Instalação
 Clone este repositório:
@@ -30,6 +33,7 @@ bash
 cd amigo-secreto
 Abra o arquivo index.html em qualquer navegador para executar o projeto.
 
+
 🧩 Como Utilizar
 Abra o arquivo index.html em seu navegador.
 
@@ -41,8 +45,10 @@ Quando houver pelo menos dois nomes, clique no botão "Sortear Amigo".
 
 O nome sorteado será exibido na tela.
 
+
 🔧 Dependências
 Este projeto é uma aplicação front-end simples e não requer instalações adicionais ou dependências de terceiros para funcionar. Tudo o que você precisa é de um navegador moderno.
+
 
 🚨 Possíveis Problemas e Soluções
 O sorteio não acontece:
@@ -56,6 +62,7 @@ Isso ocorre quando há menos de dois nomes na lista. Adicione mais nomes para co
 Não vê o layout correto:
 
 Verifique se o arquivo style.css está no mesmo diretório que o index.html e se o navegador tem acesso a ele.
+
 
 🚀 Melhorias Futuras
 Adicionar a funcionalidade de remover nomes da lista.
